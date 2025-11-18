@@ -18,9 +18,9 @@ Time complexity measures how the time required to execute a code changes as the 
 
 ### Time Complexity
 
-- **Best Case:**- Big - O
+- **Best Case:**- Omega
 - **Average Case:** - Theta
-- **Worst Case:** - Omega
+- **Worst Case:** - Big - O
 
 ### Space Complexity
 
@@ -31,3 +31,4 @@ Space complexity refers to the amount of memory required by a program during its
 - Input Space: Memory required to store the input data
 - Auxiliary Space: Additional memory required to solve the problem.
   Including temporary variables, data structures, or function call stacks.
+
